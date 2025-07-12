@@ -2,6 +2,9 @@
 
 Uma enciclopédia interativa de dinossauros inspirada no universo de Jurassic Park, com design system moderno, glassmorphism e experiência visual imersiva.
 
+> **📝 Projeto de Portfólio & Sandbox**  
+> Este é um projeto de **ficção criado para fins de portfólio** e demonstração de habilidades técnicas. Foi desenvolvido como um **sandbox experimental** para explorar e brincar com tecnologias como Node.js, React, Next.js 14, TypeScript e Framer Motion. O projeto serve como showcase de desenvolvimento front-end moderno, implementação de design systems, componentes reutilizáveis e experiência do usuário (UX/UI).
+
 ## 🌟 Features
 
 ### Design System Completo
@@ -240,6 +243,18 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📞 Contato
 
 **InGen Corporation** - Advanced Genetic Technologies
+
+## 🎯 Sobre Este Projeto
+
+Este projeto foi desenvolvido como um **sandbox experimental** e **showcase de portfólio** para demonstrar:
+
+- **Arquitetura Front-end Moderna**: Next.js 14 com App Router e TypeScript
+- **Design System Completo**: Implementação de glassmorphism e componentes reutilizáveis
+- **Experiência do Usuário**: Navegação intuitiva, animações fluidas e responsividade total
+- **Boas Práticas**: Código limpo, estrutura organizacional e performance otimizada
+- **Tecnologias Emergentes**: Framer Motion, Tailwind CSS e ferramentas modernas
+
+O projeto serve como um ambiente de **experimentação e aprendizado** onde pude explorar diferentes técnicas de desenvolvimento web, desde a criação de sistemas de design até a implementação de funcionalidades interativas complexas.
 
 ---
 
