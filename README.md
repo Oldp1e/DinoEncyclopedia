@@ -1,4 +1,5 @@
 # 🦕 Jurassic Park Dino Encyclopedia
+<img width="1785" height="1312" alt="image" src="https://github.com/user-attachments/assets/f360c1cf-7514-4417-992f-e2087a61b511" />
 
 Uma enciclopédia interativa de dinossauros inspirada no universo de Jurassic Park, com design system moderno, glassmorphism e experiência visual imersiva.
 
